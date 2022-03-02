@@ -28,11 +28,11 @@ It is obvious that there is much more to this pursuit than making a profit. Hobb
 4.  Root vegetables like beets, carrots, and turnips.
 
 
-### Small image
+
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
