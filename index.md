@@ -10,44 +10,30 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Hello Fellas
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+How are you there
 
 ## Hobby
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+What is your hobby? footbalk? cooking? or farming? 
+here we will talk about farming. here we gp
 
 ### Farming
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+A hobby farm can have different definitions. But the basic idea is that a hobby farm is a small-scale farm that is primarily for pleasure instead of being a business venture. The owner or owners of a hobby farm typically have a main source of income, like an off-farm job, or a pension or retirement income
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### Is hobby farming profitable?
 
-#### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+It is obvious that there is much more to this pursuit than making a profit. Hobby farms have represented a significant share of census-farms for many decades. Most operators of hobby farms treat the farm as a “hobby” -- there is no intention of making money. However, some hobby farms are profitable.
 
-##### Header 5
+##### Plants to Grow on Your One Acre Farm
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Potatoes or sweet potatoes.
+2.  Beans and peas.
+3.  Cabbage and lettuce.
+4.  Root vegetables like beets, carrots, and turnips.
 
 ###### Header 6
 
