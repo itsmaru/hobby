@@ -30,7 +30,6 @@ It is obvious that there is much more to this pursuit than making a profit. Hobb
 
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 
